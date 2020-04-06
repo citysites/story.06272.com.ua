@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow:
+Sitemap: http://story.06272.com.ua/sitemap.xml
+Host: story.06272.com.ua
